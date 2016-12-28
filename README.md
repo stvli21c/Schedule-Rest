@@ -21,7 +21,7 @@
 	
 本程序使用.Net框架:
 
-	&nbsp;ScheduleRest_RevX.X.2.0_WinVista  :  使用.Net2.0 framework, 原生 Windows Vista 可以运行，或者安装了.Net2.0的 Windows XP.
+	ScheduleRest_RevX.X.2.0_WinVista  :  使用.Net2.0 framework, 原生 Windows Vista 可以运行，或者安装了.Net2.0的 Windows XP.
 
 	ScheduleRest_RevX.X.3.5_Win7  :  使用 .Net3.5 framework, 原生 Windows 7 或者 Windows2008R2 可以运行.
 

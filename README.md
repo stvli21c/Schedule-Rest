@@ -13,18 +13,21 @@
 	
 	如果不选择 <保存定时>，程序不产生任何文件。
 	
-	- 如果 <保存定时> 选择后，点击 <开始>，程序保存当前的设置，下次程序启动将自动加载这个设置并开始执行该定时“休眠”／“关机”／“睡眠”操作。
+		- 如果 <保存定时> 选择后，点击 <开始>，程序保存当前的设置，下次程序启动将自动加载这个设置并开始执行该定时“休眠”／“关机”／“睡眠”操作。
 	
-	- 取消 <保存定时> 后，下次程序启动将不自动加载设置，时间设置框自动提取当时的时间。
+		- 取消 <保存定时> 后，下次程序启动将不自动加载设置，时间设置框自动提取当时的时间。
 	
 	开机自启动功能选择后，程序在“启动”里建立一个快捷方式，如果不喜欢取消该功能，该快捷方式被删除，系统又完美如初，没有垃圾残留了。
-	
+    
+        距离休眠/睡眠少于一分钟时弹出警告框。
+
 本程序使用.Net框架:
 
-	ScheduleRest_RevX.X.2.0_WinVista  :  使用.Net2.0 framework, 原生 Windows Vista 可以运行，或者安装了.Net2.0的 Windows XP.
+	ScheduledRest_Rev1.2_WinVista_.Net2.0  :  使用.Net2.0 framework, 原生 Windows Vista 可以运行，或者安装了.Net2.0的 Windows XP.
 
-	ScheduleRest_RevX.X.3.5_Win7  :  使用 .Net3.5 framework, 原生 Windows 7 或者 Windows2008R2 可以运行.
+	ScheduledRest_Rev1.2_Win7_.Net3.5  :  使用 .Net3.5 framework, 原生 Windows 7 或者 Windows2008R2 可以运行.
 
-	ScheduleRest_RevX.X.4.6_Win10  :  使用 .Net4.6 framework, 原生 Windows 10 可以运行
+	SScheduledRest_Rev1.2_Win10_.Net4.6  :  使用 .Net4.6 framework, 原生 Windows 10 可以运行
 	
 各位亲要是有什么需求，热烈欢迎来人来函当我的产品经理哦！不过因为是免费绿色软件，所以也没有薪水哦　^_~
+
